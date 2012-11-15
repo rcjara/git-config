@@ -1,3 +1,5 @@
 [user]
-	name = Raul Jara
-	email = raul.c.jara@gmail.com
+  name = Raul Jara
+  email = raul.c.jara@gmail.com
+[color]
+  ui = auto
