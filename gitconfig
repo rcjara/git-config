@@ -3,3 +3,5 @@
   email = raul.c.jara@gmail.com
 [color]
   ui = auto
+[alias]
+  l = "!source ~/.git/git_helpers && pretty_git_log"
