@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+ln gitconfig ~/.gitconfig
+ln gitignore ~/.gitignore
